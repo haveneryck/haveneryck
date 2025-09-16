@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Vinícius (Haveneryck)
 
-<!--
-**haveneryck/haveneryck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na Universidade Estácio de Sá  
+☕ Focado em desenvolvimento com **Java**, estudando profundamente a linguagem e suas aplicações  
+🧠 Apaixonado por lógica de programação, desafios técnicos e construção de soluções eficientes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias que estudo e aplico
+
+- ☕ **Java** — linguagem principal e foco dos meus estudos
+- 🧠 Estruturas de dados e algoritmos
+- 🕹️ Desenvolvimento de jogos em C
+- 📘 Fundamentos de programação e lógica computacional
+
+---
+
+## 📌 Projetos em destaque
+
+- [Batalha Naval em C](https://github.com/haveneryck/batalha-naval-em-c) — Jogo com níveis de dificuldade, contagem de acertos e lógica de fim de jogo  
+- [Em breve] Projetos em Java, que já estão sendo desenvolvidos e irei adicionando conforme for criando
+
+---
+
+## 📫 Como me encontrar
+
+- GitHub: [@haveneryck](https://github.com/haveneryck)
+- Email: haveneryck@gmail.com
+- Telefone: (38) 99149-3843 (WhatsApp.
+- LinkedIn: [linkedin.com/in/haveneryck](https://linkedin.com/in/haveneryck) 
+
+---
+
+> “A prática constante transforma curiosidade em domínio.”
