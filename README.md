@@ -20,8 +20,8 @@
 - [Batalha Naval em C](https://github.com/haveneryck/batalha-naval-em-c) — Jogo com níveis de dificuldade, contagem de acertos e lógica de fim de jogo  
 - [Cadastro de Cartas - Super Trunfo](https://github.com/haveneryck/cadastro-cartas-haveneryck) — Sistema em C que simula um duelo entre países com atributos comparáveis, lógica de soma, desempate e exibição detalhada
 - [Calculadora de IMC em Java](https://github.com/haveneryck/BMICalculatorProject) — Aplicação com interface gráfica em JavaFX que calcula o Índice de Massa Corporal com base em peso e altura, incluindo tratamento de erros e exibição do resultado
+- [Gerador de Senhas em Java](https://github.com/haveneryck/gerador-de-senhas) — Aplicativo com versão CLI e GUI que gera senhas seguras usando SecureRandom, com personalização de tamanho e interface gráfica estilizada em JavaFX
 - [Em breve] Projetos em Java, que já estão sendo desenvolvidos e irei adicionando conforme for criando
-
 ---
 
 ## 📫 Como me encontrar
