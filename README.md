@@ -22,7 +22,6 @@
 - [Calculadora de IMC em Java](https://github.com/haveneryck/BMICalculatorProject) — Aplicação com interface gráfica em JavaFX que calcula o Índice de Massa Corporal com base em peso e altura, incluindo tratamento de erros e exibição do resultado
 - [Gerador de Senhas em Java](https://github.com/haveneryck/gerador-de-senhas) — Aplicativo com versão CLI e GUI que gera senhas seguras usando SecureRandom, com personalização de tamanho e interface gráfica estilizada em JavaFX
 - [Haveneryck Browser](https://github.com/haveneryck/haveneryck_browser) — Mini navegador em JavaFX com barra de URL e botões de navegação.
-- [Em breve] Projetos em Java, que já estão sendo desenvolvidos e irei adicionando conforme for criando
 ---
 
 ## 📫 Como me encontrar
