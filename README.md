@@ -32,21 +32,36 @@
 
 ### **Conceitos & Práticas**
 - ☕ **POO** (Programação Orientada a Objetos)
-- 🗃️ **JDBC** - Manipulação de banco de dados
-- 🏗️ **Padrão DAO** (Data Access Object)
+- 🌐 **Consumo de APIs REST** (HTTP Client, requisições GET)
+- 📊 **Parsing de JSON** (org.json)
+- 🗃️ **JDBC** - Manipulação de banco de dados *(em estudo)*
+- 🏗️ **Padrão DAO** *(em estudo)*
 - 🧠 **Estruturas de dados e algoritmos**
 - 📘 **Lógica de programação**
 - 🔄 **Versionamento com Git**
+- 💻 **Desenvolvimento via terminal e IDE**
+- 🔐 **Tratamento de exceções e validação de dados**
+- 
+
+---
+
+## 📈 Atualmente estudando
+
+- 📘 **Curso**: Java Completo - Programação Orientada a Objetos + Projetos (Udemy)
+- 🎯 **Foco atual**: JDBC e integração com banco de dados
+- 🚀 **Próximo passo**: Spring Boot e desenvolvimento de APIs REST
+- ✅ **Concluído recentemente**: Sistema Climático com consumo de API REST e parsing JSON
 
 ---
 
 ## 📌 Projetos em destaque
 
-- [Batalha Naval em C](https://github.com/haveneryck/batalha-naval-em-c) — Jogo com níveis de dificuldade, contagem de acertos e lógica de fim de jogo  
-- [Cadastro de Cartas - Super Trunfo](https://github.com/haveneryck/cadastro-cartas-haveneryck) — Sistema em C que simula um duelo entre países com atributos comparáveis, lógica de soma, desempate e exibição detalhada
-- [Calculadora de IMC em Java](https://github.com/haveneryck/BMICalculatorProject) — Aplicação com interface gráfica em JavaFX que calcula o Índice de Massa Corporal com base em peso e altura, incluindo tratamento de erros e exibição do resultado
-- [Gerador de Senhas em Java](https://github.com/haveneryck/gerador-de-senhas) — Aplicativo com versão CLI e GUI que gera senhas seguras usando SecureRandom, com personalização de tamanho e interface gráfica estilizada em JavaFX
-- [Haveneryck Browser](https://github.com/haveneryck/haveneryck_browser) — Mini navegador em JavaFX com barra de URL e botões de navegação.
+* [Sistema de Informações Climáticas em Tempo Real](https://github.com/haveneryck/sistema-climatico-tempo-real) — Sistema de consulta meteorológica via terminal consumindo WeatherAPI, com parsing de JSON e tratamento de dados em tempo real
+* [Batalha Naval em C](https://github.com/haveneryck/batalha-naval-em-c) — Jogo com níveis de dificuldade, contagem de acertos e lógica de fim de jogo
+* [Cadastro de Cartas - Super Trunfo](https://github.com/haveneryck/cadastro-cartas-haveneryck) — Sistema em C que simula um duelo entre países com atributos comparáveis, lógica de soma, desempate e exibição detalhada
+* [Calculadora de IMC em Java](https://github.com/haveneryck/BMICalculatorProject) — Aplicação com interface gráfica em JavaFX que calcula o Índice de Massa Corporal com base em peso e altura, incluindo tratamento de erros e exibição do resultado
+* [Gerador de Senhas em Java](https://github.com/haveneryck/gerador-de-senhas) — Aplicativo com versão CLI e GUI que gera senhas seguras usando SecureRandom, com personalização de tamanho e interface gráfica estilizada em JavaFX
+* [Haveneryck Browser](https://github.com/haveneryck/haveneryck_browser) — Mini navegador em JavaFX com barra de URL e botões de navegação
 ---
 
 ## 📫 Como me encontrar
