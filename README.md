@@ -54,14 +54,26 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos em Destaque
 
-* [Sistema de Informações Climáticas em Tempo Real](https://github.com/haveneryck/sistema-climatico-tempo-real) — Sistema de consulta meteorológica via terminal consumindo WeatherAPI, com parsing de JSON e tratamento de dados em tempo real
-* [Batalha Naval em C](https://github.com/haveneryck/batalha-naval-em-c) — Jogo com níveis de dificuldade, contagem de acertos e lógica de fim de jogo
-* [Cadastro de Cartas - Super Trunfo](https://github.com/haveneryck/cadastro-cartas-haveneryck) — Sistema em C que simula um duelo entre países com atributos comparáveis, lógica de soma, desempate e exibição detalhada
-* [Calculadora de IMC em Java](https://github.com/haveneryck/BMICalculatorProject) — Aplicação com interface gráfica em JavaFX que calcula o Índice de Massa Corporal com base em peso e altura, incluindo tratamento de erros e exibição do resultado
-* [Gerador de Senhas em Java](https://github.com/haveneryck/gerador-de-senhas) — Aplicativo com versão CLI e GUI que gera senhas seguras usando SecureRandom, com personalização de tamanho e interface gráfica estilizada em JavaFX
-* [Haveneryck Browser](https://github.com/haveneryck/haveneryck_browser) — Mini navegador em JavaFX com barra de URL e botões de navegação
+### 🏆 Sistema de Gerenciamento de Produtos (JDBC + JavaFX)
+Sistema CRUD completo com backend Java + JDBC, interface gráfica JavaFX e estilização CSS profissional. Implementa padrão DAO, prepared statements e integração completa banco de dados.
+
+**Tech:** Java, JDBC, SQLite, JavaFX, CSS  
+**[Ver projeto →](https://github.com/haveneryck/sistema-produtos-jdbc)**
+
+### 🌤️ Sistema de Informações Climáticas em Tempo Real
+Aplicação de consulta meteorológica via terminal consumindo WeatherAPI. Implementa requisições HTTP, parsing de JSON e tratamento de dados em tempo real.
+
+**Tech:** Java, HTTP Client, JSON, APIs REST  
+**[Ver projeto →](https://github.com/haveneryck/sistema-climatico)**
+
+### 🎮 Batalha Naval em C
+Jogo completo com níveis de dificuldade, sistema de pontuação e lógica de fim de jogo. Demonstra domínio de algoritmos, estruturas de dados e lógica complexa.
+
+**Tech:** C, Algoritmos, Estruturas de Dados  
+**[Ver projeto →](https://github.com/haveneryck/batalha-naval)**
+
 ---
 
 ## 📫 Como me encontrar
