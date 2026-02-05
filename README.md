@@ -66,13 +66,13 @@ Sistema CRUD completo com backend Java + JDBC, interface gráfica JavaFX e estil
 Aplicação de consulta meteorológica via terminal consumindo WeatherAPI. Implementa requisições HTTP, parsing de JSON e tratamento de dados em tempo real.
 
 **Tech:** Java, HTTP Client, JSON, APIs REST  
-**[Ver projeto →](https://github.com/haveneryck/sistema-climatico)**
+**[Ver projeto →](https://github.com/haveneryck/sistema-climatico-tempo-real)**
 
 ### 🎮 Batalha Naval em C
 Jogo completo com níveis de dificuldade, sistema de pontuação e lógica de fim de jogo. Demonstra domínio de algoritmos, estruturas de dados e lógica complexa.
 
 **Tech:** C, Algoritmos, Estruturas de Dados  
-**[Ver projeto →](https://github.com/haveneryck/batalha-naval)**
+**[Ver projeto →](https://github.com/haveneryck/batalha-naval-em-c)**
 
 ---
 
