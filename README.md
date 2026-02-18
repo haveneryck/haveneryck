@@ -123,12 +123,15 @@ trabalho sob pressão, relacionamento com stakeholders.
 
 ---
 
-## 📫 Como me encontrar
+## 📬 Vamos Conversar?
 
-- GitHub: [@haveneryck](https://github.com/haveneryck)
-- Email: haveneryck@gmail.com
-- Telefone: (38) 99149-3843 (WhatsApp)
-- LinkedIn: [linkedin.com/in/haveneryck](https://linkedin.com/in/haveneryck) 
+Estou aberto a oportunidades como **Desenvolvedor Java Júnior** ou **Estágio em Programação**.
+
+- 💼 **LinkedIn:** [linkedin.com/in/haveneryck](https://linkedin.com/in/haveneryck)
+- 📧 **Email:** haveneryck@gmail.com
+- 📱 **WhatsApp:** (38) 99149-3843
+- 💻 **GitHub:** [@haveneryck](https://github.com/haveneryck)
+- 📍 **Localização:** Montes Claros, MG (Aberto a remoto)
 
 ---
 
