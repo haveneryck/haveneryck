@@ -63,8 +63,7 @@ interface gráfica e integração com banco de dados.
 - 🔄 **Versionamento com Git**
 - 💻 **Desenvolvimento via terminal e IDE**
 - 🔐 **Tratamento de exceções e validação de dados**
-- 
-
+  
 ---
 
 ## 📈 Jornada de Aprendizado
