@@ -1,10 +1,31 @@
-# 👋 Olá! Eu sou Vinícius (Haveneryck)
+# 👋 Olá! Eu sou Vinícius Oliveira Brito
 
-🎓 Estudante de Engenharia de Software na Universidade Estácio de Sá  
-☕ Focado em desenvolvimento com **Java**, estudando profundamente a linguagem e suas aplicações  
-🧠 Apaixonado por lógica de programação, desafios técnicos e construção de soluções eficientes
+💼 Analista de Suporte N2 (2+ anos) em transição para Desenvolvedor Java
+🎓 Graduando em Engenharia de Software - Universidade Estácio de Sá
+☕ Desenvolvedor Java em formação | Portfólio com projetos CRUD, APIs REST e JavaFX
+🎯 Objetivo: Desenvolvedor Java Júnior
+📍 Montes Claros, MG
 
 ---
+
+## 👨‍💻 Sobre Mim
+
+Profissional com **2+ anos de experiência** como Analista de Suporte Nível 2, 
+especializado em resolução de problemas técnicos e relacionamento direto com 
+gerentes de clientes do setor bancário.
+
+Atualmente em **transição de carreira** para desenvolvimento de software, 
+combinando experiência corporativa com sólida formação técnica em Java. 
+Portfólio com projetos demonstrando CRUD completo, consumo de APIs REST, 
+interface gráfica e integração com banco de dados.
+
+**Diferenciais:**
+- ✅ Experiência com clientes corporativos de alto nível
+- ✅ Comunicação técnica refinada (tratativas com gerentes)
+- ✅ Resolução de problemas sob pressão
+- ✅ Portfólio de projetos práticos em Java
+
+  ---
 
 ## 🧰 Tecnologias que estudo e aplico
 
@@ -34,8 +55,9 @@
 - ☕ **POO** (Programação Orientada a Objetos)
 - 🌐 **Consumo de APIs REST** (HTTP Client, requisições GET)
 - 📊 **Parsing de JSON** (org.json)
-- 🗃️ **JDBC** - Manipulação de banco de dados *(em estudo)*
-- 🏗️ **Padrão DAO** *(em estudo)*
+- 🗃️ **JDBC** - Manipulação de banco de dados
+- 🏗️ **Padrão DAO**
+- 🔗 PreparedStatement e SQL Injection Prevention
 - 🧠 **Estruturas de dados e algoritmos**
 - 📘 **Lógica de programação**
 - 🔄 **Versionamento com Git**
@@ -45,12 +67,21 @@
 
 ---
 
-## 📈 Atualmente estudando
+## 📈 Jornada de Aprendizado
 
-- 📘 **Curso**: Java Completo - Programação Orientada a Objetos + Projetos (Udemy)
-- 🎯 **Foco atual**: JDBC e integração com banco de dados
-- 🚀 **Próximo passo**: Spring Boot e desenvolvimento de APIs REST
-- ✅ **Concluído recentemente**: Sistema Climático com consumo de API REST e parsing JSON
+✅ **Concluído:**
+- POO completa em Java
+- JDBC + SQLite (Sistema CRUD completo)
+- JavaFX (Interface gráfica)
+- Consumo de APIs REST + parsing JSON
+
+🔄 **Em andamento:**
+- Spring Boot (Seção 46 do curso)
+- JPA/Hibernate
+
+🎯 **Próximos passos:**
+- API REST com Spring Boot
+- Deploy de aplicações Java
 
 ---
 
@@ -73,6 +104,22 @@ Jogo completo com níveis de dificuldade, sistema de pontuação e lógica de fi
 
 **Tech:** C, Algoritmos, Estruturas de Dados  
 **[Ver projeto →](https://github.com/haveneryck/batalha-naval-em-c)**
+
+---
+
+## 💼 Experiência Profissional
+
+**Analista de Suporte Nível 2** | AeC  
+*2022 - Presente (2+ anos)*
+
+- 🔧 Resolução de problemas técnicos complexos
+- 🤝 Relacionamento direto com gerentes de clientes bancários
+- 📊 Tratativas e negociações em ambiente corporativo
+- ⚡ Atendimento de demandas críticas sob pressão
+- 🎯 Análise e diagnóstico de incidentes técnicos
+
+**Habilidades desenvolvidas:** Comunicação técnica, resolução de problemas, 
+trabalho sob pressão, relacionamento com stakeholders.
 
 ---
 
