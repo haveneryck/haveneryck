@@ -73,14 +73,11 @@ interface gráfica e integração com banco de dados.
 - JDBC + SQLite (Sistema CRUD completo)
 - JavaFX (Interface gráfica)
 - Consumo de APIs REST + parsing JSON
-
-🔄 **Em andamento:**
-- Spring Boot (Seção 46 do curso)
+- Spring Boot
 - JPA/Hibernate
-
-🎯 **Próximos passos:**
 - API REST com Spring Boot
-- Deploy de aplicações Java
+🎯 Próximos passos:
+* Deploy de aplicações Java
 
 ---
 
@@ -103,6 +100,12 @@ Jogo completo com níveis de dificuldade, sistema de pontuação e lógica de fi
 
 **Tech:** C, Algoritmos, Estruturas de Dados  
 **[Ver projeto →](https://github.com/haveneryck/batalha-naval-em-c)**
+
+### 🛒 Sistema de Gerenciamento de Produtos — API REST com Spring Boot
+API REST completa com endpoints CRUD desenvolvida com Spring Boot, JPA/Hibernate e SQLite. Evolução do projeto JDBC para arquitetura moderna com Spring, testada com Postman.
+
+**Tech:** Java, Spring Boot, JPA/Hibernate, SQLite, Postman
+**[Ver projeto →](https://github.com/haveneryck/sistema-produtos-spring-boot)**
 
 ---
 
