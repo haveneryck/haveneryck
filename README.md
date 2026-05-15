@@ -27,7 +27,7 @@ interface gráfica e integração com banco de dados.
 
   ---
 
-## 🧰 Tecnologias que estudo e aplico
+## 🧰 Tecnologias que utilizo
 
 ### **Backend & Linguagens**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
