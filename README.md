@@ -37,7 +37,7 @@ interface gráfica e integração com banco de dados.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Frameworks & Ferramentas** *(em estudo)*
+### **Frameworks & Ferramentas**
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -73,11 +73,14 @@ interface gráfica e integração com banco de dados.
 - JDBC + SQLite (Sistema CRUD completo)
 - JavaFX (Interface gráfica)
 - Consumo de APIs REST + parsing JSON
-- Spring Boot
-- JPA/Hibernate
+- Spring Boot + JPA/Hibernate
 - API REST com Spring Boot
-🎯 Próximos passos:
-* Deploy de aplicações Java
+- CRUD Web Client HTML/JavaScript integrado com Spring Boot
+- Segurança Web: CORS e CSRF
+
+🎯 **Próximos passos:**
+- Deploy de aplicações Java
+- Spring Security
 
 ---
 
@@ -114,14 +117,12 @@ API REST completa com endpoints CRUD desenvolvida com Spring Boot, JPA/Hibernate
 **Analista de Suporte Nível 2** | AeC  
 *2022 - Presente (2+ anos)*
 
-- 🔧 Resolução de problemas técnicos complexos
-- 🤝 Relacionamento direto com gerentes de clientes bancários
-- 📊 Tratativas e negociações em ambiente corporativo
-- ⚡ Atendimento de demandas críticas sob pressão
-- 🎯 Análise e diagnóstico de incidentes técnicos
+- 📬 Triagem e distribuição de mais de 300 e-mails diários, priorizando casos críticos e otimizando o fluxo de trabalho da equipe
+- 👔 Atendimento direto a gerentes de clientes corporativos nos casos de maior complexidade, reduzindo o tempo de escalonamento
+- 🎯 Referência técnica da equipe para dúvidas sobre tratativas, garantindo padronização e qualidade nas respostas
+- 🔍 Análise e diagnóstico de problemas complexos, liberando a equipe para atuar em maior volume de demandas simultâneas
 
-**Habilidades desenvolvidas:** Comunicação técnica, resolução de problemas, 
-trabalho sob pressão, relacionamento com stakeholders.
+**Habilidades desenvolvidas:** Comunicação técnica refinada, gestão de prioridades sob pressão, relacionamento com clientes corporativos de alto nível, análise de causas raiz.
 
 ---
 
