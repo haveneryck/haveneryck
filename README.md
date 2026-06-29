@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Vinícius Oliveira Brito
 
-💼 Analista (3+ anos) em transição para Desenvolvedor Java
+💼 Atendente (3+ anos) em transição para Desenvolvedor Java
 🎓 Graduando em Engenharia de Software - Universidade Estácio de Sá
 ☕ Desenvolvedor Java em formação | Portfólio com projetos CRUD, APIs REST e JavaFX
 🎯 Objetivo: Desenvolvedor Java Júnior
