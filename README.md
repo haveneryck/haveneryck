@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Vinícius Oliveira Brito
 
-💼 Analista de Suporte N2 (2+ anos) em transição para Desenvolvedor Java
+💼 Analista (3+ anos) em transição para Desenvolvedor Java
 🎓 Graduando em Engenharia de Software - Universidade Estácio de Sá
 ☕ Desenvolvedor Java em formação | Portfólio com projetos CRUD, APIs REST e JavaFX
 🎯 Objetivo: Desenvolvedor Java Júnior
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Profissional com **2+ anos de experiência** como Analista de Suporte Nível 2, 
+Profissional com **3+ anos de experiência** como Atendente, 
 especializado em resolução de problemas técnicos e relacionamento direto com 
 gerentes de clientes do setor bancário.
 
