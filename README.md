@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Vinícius Oliveira Brito
 
 💼 Atendente (3 anos) em transição para Desenvolvedor Java 🎓 Graduando em Engenharia de Software - Universidade Estácio de Sá
-☕ Desenvolvedor Java em formação | Portfólio com projetos CRUD, APIs REST e JavaFX 🎯 Objetivo: Desenvolvedor Java Júnior 📍
+☕ Desenvolvedor Java em formação | Portfólio com projetos CRUD, APIs REST, JavaFX e Machine Learning 🎯 Objetivo: Desenvolvedor Java Júnior 📍
 Montes Claros, MG
 
 ---
@@ -15,7 +15,7 @@ gerentes de clientes corporativos.
 Atualmente em **transição de carreira** para desenvolvimento de software, 
 combinando maturidade corporativa com sólida formação técnica em Java. 
 Portfólio com projetos demonstrando CRUD completo, consumo de APIs REST, 
-interface gráfica e integração com banco de dados.
+interface gráfica, integração com banco de dados e Machine Learning.
 
 **Diferenciais:**
 - ✅ Experiência com clientes corporativos de alto nível
@@ -23,7 +23,7 @@ interface gráfica e integração com banco de dados.
 - ✅ Resolução de problemas sob pressão
 - ✅ Portfólio de projetos práticos em Java
 
-  ---
+---
 
 ## 🧰 Tecnologias que utilizo
 
@@ -32,6 +32,7 @@ interface gráfica e integração com banco de dados.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### **Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -61,7 +62,8 @@ interface gráfica e integração com banco de dados.
 - 🔄 **Versionamento com Git**
 - 💻 **Desenvolvimento via terminal e IDE**
 - 🔐 **Tratamento de exceções e validação de dados**
-  
+- 🤖 **Machine Learning com Weka (J48 - Árvore de Decisão)**
+
 ---
 
 ## 📈 Jornada de Aprendizado
@@ -75,14 +77,24 @@ interface gráfica e integração com banco de dados.
 - API REST com Spring Boot
 - CRUD Web Client HTML/JavaScript integrado com Spring Boot
 - Segurança Web: CORS e CSRF
-
-🎯 **Próximos passos:**
-- Deploy de aplicações Java
-- Spring Security
+- Machine Learning com Weka (algoritmo J48 — detecção de fraude bancária)
+- SQL com PostgreSQL
 
 ---
 
 ## 📌 Projetos em Destaque
+
+### 🔍 Sistema de Detecção de Fraude Bancária — Machine Learning com Spring Boot
+Sistema inteligente de detecção de fraude em transações bancárias utilizando Machine Learning. Treina modelo com dados históricos e classifica novas transações como fraude ou não fraude em tempo real. Arquitetura com responsabilidade única: lógica de ML completamente isolada da camada Spring Boot.
+
+**Tech:** Java, Spring Boot, Weka 3.8.6, Algoritmo J48, Maven  
+**[Ver projeto →](https://github.com/haveneryck/sistema-fraude-bancaria)**
+
+### 🛒 Sistema de Gerenciamento de Produtos — API REST com Spring Boot
+API REST completa com endpoints CRUD desenvolvida com Spring Boot, JPA/Hibernate e SQLite. Evolução do projeto JDBC para arquitetura moderna com Spring, testada com Postman.
+
+**Tech:** Java, Spring Boot, JPA/Hibernate, SQLite, Postman  
+**[Ver projeto →](https://github.com/haveneryck/sistema-produtos-spring-boot)**
 
 ### 🏆 Sistema de Gerenciamento de Produtos (JDBC + JavaFX)
 Sistema CRUD completo com backend Java + JDBC, interface gráfica JavaFX e estilização CSS profissional. Implementa padrão DAO, prepared statements e integração completa banco de dados.
@@ -102,12 +114,6 @@ Jogo completo com níveis de dificuldade, sistema de pontuação e lógica de fi
 **Tech:** C, Algoritmos, Estruturas de Dados  
 **[Ver projeto →](https://github.com/haveneryck/batalha-naval-em-c)**
 
-### 🛒 Sistema de Gerenciamento de Produtos — API REST com Spring Boot
-API REST completa com endpoints CRUD desenvolvida com Spring Boot, JPA/Hibernate e SQLite. Evolução do projeto JDBC para arquitetura moderna com Spring, testada com Postman.
-
-**Tech:** Java, Spring Boot, JPA/Hibernate, SQLite, Postman
-**[Ver projeto →](https://github.com/haveneryck/sistema-produtos-spring-boot)**
-
 ---
 
 ## 💼 Experiência Profissional
@@ -120,7 +126,7 @@ Atendente responsável pelo gerenciamento e triagem de demandas críticas no set
 - 📬 Triagem e distribuição de mais de 300 e-mails diários, priorizando casos críticos e otimizando o fluxo de trabalho da equipe
 - 👔 Atendimento direto a gerentes de clientes corporativos nos casos de maior complexidade, reduzindo o tempo de escalonamento
 - 🎯 Referência técnica da equipe para dúvidas sobre tratativas, garantindo padronização e qualidade nas respostas
-- 🔍 Análise e diagnóstico de problemas complexos com auxílio do supervisor, liberando a equipe para atuar em maior volume de demandas simultâneas
+- 🔍 Análise e diagnóstico de problemas complexos, liberando a equipe para atuar em maior volume de demandas simultâneas
 
 **Habilidades desenvolvidas:** Comunicação técnica refinada com clientes corporativos de alto nível, gestão de prioridades sob pressão, trabalho em equipe multidisciplinar, análise de causas raiz.
 
@@ -138,4 +144,4 @@ Estou aberto a oportunidades como **Desenvolvedor Java Júnior** ou **Estágio e
 
 ---
 
-> “A prática constante transforma curiosidade em domínio.”
+> "A prática constante transforma curiosidade em domínio."
