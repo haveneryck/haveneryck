@@ -1,21 +1,20 @@
 # 👋 Olá! Eu sou Vinícius Oliveira Brito
 
-💼 Atendente (3+ anos) em transição para Desenvolvedor Java
+💼 Atendente (3 anos) em transição para Desenvolvedor Java
 🎓 Graduando em Engenharia de Software - Universidade Estácio de Sá
 ☕ Desenvolvedor Java em formação | Portfólio com projetos CRUD, APIs REST e JavaFX
 🎯 Objetivo: Desenvolvedor Java Júnior
 📍 Montes Claros, MG
-
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Profissional com **3+ anos de experiência** como Atendente, 
-especializado em resolução de problemas técnicos e relacionamento direto com 
-gerentes de clientes do setor bancário.
+Profissional com **3 anos de experiência** como Atendente no setor bancário, 
+especializado em resolução de problemas complexos e relacionamento direto com 
+gerentes de clientes corporativos.
 
 Atualmente em **transição de carreira** para desenvolvimento de software, 
-combinando experiência corporativa com sólida formação técnica em Java. 
+combinando maturidade corporativa com sólida formação técnica em Java. 
 Portfólio com projetos demonstrando CRUD completo, consumo de APIs REST, 
 interface gráfica e integração com banco de dados.
 
@@ -114,15 +113,17 @@ API REST completa com endpoints CRUD desenvolvida com Spring Boot, JPA/Hibernate
 
 ## 💼 Experiência Profissional
 
-**Analista de Suporte Nível 2** | AeC  
-*2022 - Presente (2+ anos)*
+**Atendente** | AeC  
+*2022 - Presente (3 anos)*
+
+Atendente responsável pelo gerenciamento e triagem de demandas críticas no setor bancário, atuando como ponto central de organização da equipe.
 
 - 📬 Triagem e distribuição de mais de 300 e-mails diários, priorizando casos críticos e otimizando o fluxo de trabalho da equipe
 - 👔 Atendimento direto a gerentes de clientes corporativos nos casos de maior complexidade, reduzindo o tempo de escalonamento
 - 🎯 Referência técnica da equipe para dúvidas sobre tratativas, garantindo padronização e qualidade nas respostas
-- 🔍 Análise e diagnóstico de problemas complexos, liberando a equipe para atuar em maior volume de demandas simultâneas
+- 🔍 Análise e diagnóstico de problemas complexos com auxílio do supervisor, liberando a equipe para atuar em maior volume de demandas simultâneas
 
-**Habilidades desenvolvidas:** Comunicação técnica refinada, gestão de prioridades sob pressão, relacionamento com clientes corporativos de alto nível, análise de causas raiz.
+**Habilidades desenvolvidas:** Comunicação técnica refinada com clientes corporativos de alto nível, gestão de prioridades sob pressão, trabalho em equipe multidisciplinar, análise de causas raiz.
 
 ---
 
